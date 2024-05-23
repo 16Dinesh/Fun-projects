@@ -1,3 +1,3 @@
-# Simon Box game using JavaScript, CSS, HTML
+# Simon Box game using JavaScript - DOM, addEventListener's , CSS, HTML
 
 # Dinesh
