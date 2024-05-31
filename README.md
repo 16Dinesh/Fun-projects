@@ -1,3 +1,3 @@
-# Learn with Fun
+# Learning Projects
 
 # Dinesh
