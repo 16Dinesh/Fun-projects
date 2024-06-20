@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guessing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Max Number Guessing Game</h1>
+    <div id="game">
+        <label for="maxNumber">Enter your max number:</label>
+        <input type="number" id="maxNumber" min="1" required>
+        <button id="startGame">Start Game</button>
+        
+        <div id="guessSection" style="display:none;">
+            <label for="guess">Enter your guess:</label>
+            <input type="number" id="guess" required>
+            <button id="submitGuess">Submit Guess</button>
+            <p id="feedback"></p>
+        </div>
+    </div>
+    <script src="Gussing_Game.js"></script>
+</body>
+</html>
