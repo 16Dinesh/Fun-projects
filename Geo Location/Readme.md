@@ -1,1 +1,0 @@
-# used geolocation property
