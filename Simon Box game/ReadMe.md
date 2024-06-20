@@ -1,3 +1,1 @@
-# Simon Box game using DOM, addEventListener's , CSS, HTML
-
-# Dinesh
+using DOM, addEventListener's , CSS, HTML
